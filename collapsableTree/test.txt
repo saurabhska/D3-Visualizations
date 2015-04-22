@@ -1,0 +1,100 @@
+AUvxBUt1anePV-W5QJ0Q,PS
+AUvxBUt1anePV-W5QJ0Q,Nafion
+AUvxBUt1anePV-W5QJ0Q,DNA
+AUvxCKxGSueeRLZ6tbI5,PMMA
+AUvxCKxGSueeRLZ6tbI5,Nafion
+AUvxBnaIla3oBuL8zMqm,High impact polystyrene
+AUvxCV1ygkdI-uzUzWZ6,Nafion
+AUvxCV1ygkdI-uzUzWZ6,DNA
+AUvxBt7ry4I_GZeQMhRb,PTFE
+AUvxCP0Ula3oBuL8zOXZ,Nafion
+AUvxBr8sanePV-W5QK1a,High impact polystyrene
+AUvxBr8sanePV-W5QK1a,PTFE
+AUvxBZ17z9NWqE67HtY3,DNA
+AUvxCVmDz9NWqE67HwuP,PMMA
+AUvxCVmDz9NWqE67HwuP,PS
+AUvxCVmDz9NWqE67HwuP,Nafion
+AUvxCVmDz9NWqE67HwuP,High impact polystyrene
+AUvxCWg8SueeRLZ6tcbG,DNA
+AUvxCWg8SueeRLZ6tcbG,PTFE
+AUvxCUpfgkdI-uzUzWWC,PS
+AUvxCUpfgkdI-uzUzWWC,PMMA
+AUvxCVfmgkdI-uzUzWXu,DNA
+AUvxCVfmgkdI-uzUzWXu,PMMA
+AUvxCRSjgkdI-uzUzWFY,Nafion
+AUvxB-hQz9NWqE67Hvkq,PTFE
+AUvxB-hQz9NWqE67Hvkq,Nafion
+AUvxB-hQz9NWqE67Hvkq,High density polyethylene
+AUvxB-hQz9NWqE67Hvkq,High impact polystyrene
+AUvxBkb2y4I_GZeQMgs7,PMMA
+AUvxBkb2y4I_GZeQMgs7,Nafion
+AUvxBkb2y4I_GZeQMgs7,PS
+AUvxCVmDz9NWqE67HwuO,PS
+AUvxCVmDz9NWqE67HwuO,PTFE
+AUvxCVmDz9NWqE67HwuO,Nafion
+AUvxCVmDz9NWqE67HwuO,High impact polystyrene
+AUvxCVmDz9NWqE67HwuO,DNA
+AUvxCEL7SueeRLZ6ta2G,DNA
+AUvxCEL7SueeRLZ6ta2G,Nafion
+AUvxCEL7SueeRLZ6ta2G,PTFE
+AUvxCEL7SueeRLZ6ta2G,PS
+AUvxCEL7SueeRLZ6ta2G,High density polyethylene
+AUvxCEL7SueeRLZ6ta2G,High impact polystyrene
+AUvxBuBqgkdI-uzUzUsX,DNA
+AUvxBd7dla3oBuL8zMZL,PMMA
+AUvxBklwz9NWqE67Ht6t,High density polyethylene
+AUvxBW10anePV-W5QJ4D,PS
+AUvxBW10anePV-W5QJ4D,Nafion
+AUvxBraly4I_GZeQMhG6,PS
+AUvxB7AYz9NWqE67HvVd,High impact polystyrene
+AUvxB0ZyanePV-W5QLYa,PTFE
+AUvxBgHtgkdI-uzUzUOu,Nafion
+AUvxBgHtgkdI-uzUzUOu,PMMA
+AUvxBgHtgkdI-uzUzUOu,DNA
+AUvxBdUIy4I_GZeQMgZZ,High impact polystyrene
+AUvxCPeBSueeRLZ6tboD,PTFE
+AUvxCPeBSueeRLZ6tboD,PS
+AUvxCVg-anePV-W5QNMm,Nafion
+AUvxCVg-anePV-W5QNMm,DNA
+AUvxCJFGanePV-W5QMdt,PTFE
+AUvxB8tQz9NWqE67Hvcz,PTFE
+AUvxCVKPgkdI-uzUzWW3,PMMA
+AUvxCNvIanePV-W5QMrI,High density polyethylene
+AUvxBY2Gz9NWqE67HtXe,High density polyethylene
+AUvxBY2Gz9NWqE67HtXe,High impact polystyrene
+AUvxBY2Gz9NWqE67HtXe,PS
+AUvxCPcFgkdI-uzUzV9v,High impact polystyrene
+AUvxCPcFgkdI-uzUzV9v,PTFE
+AUvxBkfOSueeRLZ6tX3C,Nafion
+AUvxBkfOSueeRLZ6tX3C,PMMA
+AUvxCBgyla3oBuL8zNoK,PS
+AUvxBdLQSueeRLZ6tXGH,PTFE
+AUvxBdLQSueeRLZ6tXGH,Nafion
+AUvxBb0Ela3oBuL8zMUU,PMMA
+AUvxBY6-y4I_GZeQMgMD,High impact polystyrene
+AUvxBqM3y4I_GZeQMhBO,High impact polystyrene
+AUvxBnWaSueeRLZ6tYBQ,PS
+AUvxB0yEla3oBuL8zNMI,PS
+AUvxB0yEla3oBuL8zNMI,High impact polystyrene
+AUvxB0yEla3oBuL8zNMI,High density polyethylene
+AUvxCTKMz9NWqE67Hwkx,PTFE
+AUvxCTKMz9NWqE67Hwkx,DNA
+AUvxBVDMSueeRLZ6tWqx,PS
+AUvxBztianePV-W5QLV7,PS
+AUvxBztianePV-W5QLV7,Nafion
+AUvxCLROSueeRLZ6tbJ5,High density polyethylene
+AUvxBfrkSueeRLZ6tXdR,Nafion
+AUvxBfvkgkdI-uzUzUNa,DNA
+AUvxB6BuSueeRLZ6tZ06,PS
+AUvxCKEIla3oBuL8zOBZ,High density polyethylene
+AUvxCKEIla3oBuL8zOBZ,Nafion
+AUvxCKEIla3oBuL8zOBZ,PTFE
+AUvxCKEIla3oBuL8zOBZ,High impact polystyrene
+AUvxCKEIla3oBuL8zOBZ,DNA
+AUvxBkzWz9NWqE67Ht7m,DNA
+AUvxCDBuSueeRLZ6take,High impact polystyrene
+AUvxCDBuSueeRLZ6take,PTFE
+AUvxCVG7z9NWqE67Hwrx,Nafion
+AUvxCVG7z9NWqE67Hwrx,PS
+AUvxB7Z-SueeRLZ6tZ5y,PTFE
+AUvxBvVay4I_GZeQMhWd,High density polyethylene
